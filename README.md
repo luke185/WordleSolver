@@ -14,6 +14,11 @@ A simple program written in c++ for assistance in solving the NYT [Wordle](https
 2. Words that don't fit these conditions, based on the rules of Wordle, are then removed
 3. The user is then displayed a count and list of all possible remaining words
 
+## How to use WordleSolver
+
+1. Compile `wordleSolver.cpp` with c++ compiler of choice (gcc, clang, etc.)
+2. Run complied executable in terminal of choice
+
 ## Example
 
 - User entered word `BARKS`
@@ -63,3 +68,6 @@ s -> generate starter word
 q -> quit
 
 ```
+
+
+
